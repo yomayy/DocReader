@@ -1,0 +1,10 @@
+D:\src\DocReader\DocReader\bin\Debug\DocReader.exe.config
+D:\src\DocReader\DocReader\bin\Debug\DocReader.exe
+D:\src\DocReader\DocReader\bin\Debug\DocReader.pdb
+D:\src\DocReader\DocReader\obj\Debug\DocReader.csprojAssemblyReference.cache
+D:\src\DocReader\DocReader\obj\Debug\DocReader.Form1.resources
+D:\src\DocReader\DocReader\obj\Debug\DocReader.Properties.Resources.resources
+D:\src\DocReader\DocReader\obj\Debug\DocReader.csproj.GenerateResource.cache
+D:\src\DocReader\DocReader\obj\Debug\DocReader.csproj.CoreCompileInputs.cache
+D:\src\DocReader\DocReader\obj\Debug\DocReader.exe
+D:\src\DocReader\DocReader\obj\Debug\DocReader.pdb

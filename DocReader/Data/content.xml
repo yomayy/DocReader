@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<book name ="WinForms Guide" icon1="0" icon2="1">
+  <chapter id="100" name="Chapter 1" icon1="2">
+    <page id="101" icon1="3" />
+    <page id="102" icon1="3" />
+    <page id="103" icon1="3" />
+  </chapter>
+  <chapter id="200" name="Chapter 2" icon1="2">
+    <page id="201" icon1="3" />
+    <page id="202" icon1="3" />
+    <page id="203" icon1="3" />
+  </chapter>
+  <chapter id="300" name="Chapter 3" icon1="2">
+    <page id="301" icon1="3" />
+    <page id="302" icon1="3" />
+    <page id="303" icon1="3" />
+  </chapter>
+</book>
